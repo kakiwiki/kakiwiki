@@ -17,11 +17,13 @@
 	  coverpage: true,
 	  loadSidebar: true,
 	  loadNavbar: true,
+	  name: '卡积百科',
+	  nameLink: '#/README',
+	  //logo: '/images/kaki.png',
 	  auto2top: true,
 	  maxLevel: 4,
 	  subMaxLevel: 2,
 	  notFoundPage: true,
-      name: '',
       repo: '',
 	  //pagination: {
         //previousText: '上一篇',
@@ -31,11 +33,11 @@
       plugins: [
         function (hook, vm) {
           hook.beforeEach(function (html) {
-            var update = ':memo:&nbsp;&nbsp;更新于 {docsify-updated} \n\n'
+            var update = '![update](https://img.shields.io/badge/更新于 -{docsify-updated}-brightgreen.svg) \n\n'
             return update
               + html
               + '\n\n----\n\n'
-              + ':heart:&nbsp;&nbsp;Powered by Kaki Wiki'
+              + ':heart:&nbsp;&nbsp;© 2018 卡积百科'
           })
         }
       ],
