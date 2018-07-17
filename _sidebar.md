@@ -9,7 +9,7 @@
   * [星巴克](post/benefits/starbucks.md)
   * [汽车加油](post/benefits/gas.md)
   * [接送机](post/benefits/pickup.md)
-  * [延误险](post/benefits/delay.md)
+  * [延误险 <sup style="color:red">新!<sup>](post/benefits/flight-delay.md)
   * [休息室](post/benefits/lounge.md)
   * [洗牙体检](post/benefits/health.md)
   * [酒店会籍](post/benefits/membership.md)
