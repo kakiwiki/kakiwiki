@@ -6,6 +6,29 @@
 
 ---
 
+## 工商银行
+
+![](https://ws1.sinaimg.cn/large/49dba72ely1fon2f9mz8wj20go06m0vh.jpg)
+
+**活动时间：**即日起至 2018 年 10 月 31 日
+
+**活动对象：**工商银行信用卡
+
+**活动内容：**
+
+- 境外线下消费**单笔满 1000 元返现 120 元**，每人每月限 1 次，每月共 5000 名额。
+- 境外线下消费单笔满 300 元的交易，**每 6 笔可抽 1 笔返现 9%**，每人每月最高返现 300 元，每月至少 3000 名额。
+- 境外线上消费**单笔满 1000 元返现 120 元**，每人每月限 1 次，每月共 5000 名额。
+- 境外线上消费单笔满 300 元的交易，**每 6 笔可抽 1 笔返现 9%**，每人每月最高返现 300 元，每月至少 2000 名额。
+
+**报名方式：**（1）编辑短信 **XYK8** 发送至 95588；（2）「**融e联**」App - 消息 - 工银信使 - 发送 **XYK8**报名
+
+**参考链接：**[工银信用卡爱购全球](http://www.icbc.com.cn/icbc/%E4%BC%98%E6%83%A0%E6%B4%BB%E5%8A%A8/%E6%B4%BB%E5%8A%A8%E5%88%97%E8%A1%A8/%E5%85%A8%E5%9B%BD%E6%B4%BB%E5%8A%A8%E5%88%97%E8%A1%A8/%E7%88%B1%E8%B4%AD%E5%85%A8%E7%90%83%E5%A2%83%E5%A4%96%E6%B6%88%E8%B4%B9%E5%8F%8A%E6%B5%B7%E6%B7%98%E6%9C%80%E9%AB%98%E8%BF%94%E7%8E%B021.htm)
+
+**点评：**工行活动一向财大气粗，不限商户不限卡种不限线上线下，不愧是宇宙第一大行。而且返现 1-2 天就到账，堪称返现界的快枪手。
+
+---
+
 ## 交通银行
 
 ![](https://ws1.sinaimg.cn/large/49dba72ely1fon2ftztdmj20mg07smye.jpg)
@@ -37,25 +60,29 @@
 
 ![](https://ws1.sinaimg.cn/large/49dba72ely1fon2g3of41j20qo0dotau.jpg)
 
-### **Visa、万事达单标卡线下 8% 返现**
+### **Visa、万事达卡线下 8%+3% 返现**
 
-   **活动时间：**即日起至 2018 年 6 月 30 日
+**活动时间：**即日起至 2018 年 12 月 31 日
 
-   **活动对象：**Visa 或万事达单标信用卡
+**活动对象：**Visa、万事达信用卡
 
-   **活动内容：**境外线下刷卡消费，**每笔均可返现 8%**。每人每卡组织每月限返 100 美元，Visa卡共 50000 个返现名额，万事达卡共 30000 个返现名额，返现 1 次即为 1 个名额。
+**活动内容：**
 
-   **报名方式：**（1）编辑短信 **CCHD#卡号后四位#010** 发送至 95533；（2）关注「**龙卡信用卡**」官方微信 - My地盘 - 活动报名
+- 境外线下刷卡消费，**每笔均可返现 8%**。每人每卡组织每月限返 60 美元，活动期间每卡组织限享 2 次。Visa 卡限前 260000 个返现名额，万事达卡限前 80000 个返现名额，返现 1 次即为 1 个名额。
 
-   **参考链接：**[Visa、万事达单标卡 境外刷卡消费享 8% 返现](http://www.ccb.com/cn/html1/office/xyk/subject/17/0524gww/fanxian8.html)
+- 境外线下刷卡消费，每卡组织**累计交易额达等值 5000 美元可额外获得 180 美元返现**，每人每卡组织活动期间限享 1 次。Visa卡限前 10000 个返现名额，万事达卡限前 4000 个返现名额，返现 1 次即为 1 个名额。
 
-### **Visa、万事达单标卡线上 8% 返现**
+**报名方式：**（1）编辑短信 **CCHD#卡号后四位#010** 发送至 95533；（2）关注「**龙卡信用卡**」官方微信 - My地盘 - 活动报名
 
-   **活动时间：**即日起至 2018 年 6 月 30 日
+**参考链接：**[Visa、万事达卡 境外刷卡消费享 8%+3% 返现](http://www.ccb.com/cn/html1/office/xyk/subject/18/0629fxweb/fanxian8.html)
 
-   **活动对象：**Visa 或万事达单标信用卡
+### **Visa、万事达卡线上商旅平台 8% 返现**
 
-   **活动内容：**境外线上指定商户消费，**每笔均可返现 8%**。每人每卡组织每月限返 50 美元。
+**活动时间：**即日起至 2018 年 12 月 31 日
+
+**活动对象：**Visa、万事达信用卡
+
+**活动内容：**境外线上指定商户消费，**每笔均可返现 8%**。每人每卡组织每月限返 50 美元。活动期间每卡组织限享 2 次。Visa 卡限前 11000 个返现名额，万事达卡限前 3700 个返现名额，返现 1 次即为 1 个名额。
 
 | 商户名       | 网址                                       |
 | --------- | ---------------------------------------- |
@@ -65,23 +92,93 @@
 | Expedia   | [https://www.expedia.com](http://www.expedia.com/) |
 | Priceline | [https://www.priceline.com](http://www.priceline.com/) |
 
-   ​
 
-   **报名方式：**（1）编辑短信 **CCHD#卡号后四位#018** 发送至 95533；（2）关注「**龙卡信用卡**」官方微信 - My地盘 - 活动报名
 
-   **参考链接：**[Visa、万事达单标卡 境外线上商旅平台享 8% 返现](http://www.ccb.com/cn/html1/office/xyk/subject/17/0524gww/h-2.html)
+**报名方式：**（1）编辑短信 **CCHD#卡号后四位#010** 发送至 95533；（2）关注「**龙卡信用卡**」官方微信 - My地盘 - 活动报名
 
-### **JCB单标卡线下最高 10% 返现**
+**参考链接：**[Visa、万事达卡 境外线上商旅平台享 8% 返现](http://www.ccb.com/cn/html1/office/xyk/subject/18/0629fxweb/h-2.html)
 
-   **活动时间：**即日起至 2018 年 6 月 30 日
+### **Visa、万事达卡海淘十大名店 8% 返现**
 
-   **活动对象：**JCB 单标信用卡
+**活动时间：**即日起至 2018 年 12 月 31 日
 
-   **活动内容：**境外线下刷卡消费，每笔均可返现 8%，**在日本、美国可享每笔返现 10%**。每人每月限返 80 美元，活动期间限享 2 次，共 4000 个返现名额。
+**活动对象：**Visa、万事达信用卡
 
-   **报名方式：**（1）编辑短信 **CCHD#卡号后四位#010** 发送至 95533；（2）关注「**龙卡信用卡**」官方微信 - My地盘 - 活动报名
+**活动内容：**境外线上指定商户消费，**每笔均可返现 8%**。每人每卡组织每月限返 60 美元。活动期间每卡组织限享2次。Visa 卡限前 50000 个返现名额，万事达卡限前 14000 个返现名额，返现 1 次即为 1 个名额。
 
-   **参考链接：**[JCB 单标卡 境外刷卡消费享最高 10% 返现](http://www.ccb.com/cn/html1/office/xyk/subject/17/0524gww/jcb.html)
+| 商户名称             | 类别   | 网址                                       |
+| ---------------- | ---- | ---------------------------------------- |
+| Amazon           | 综合百货 | [www.amazon.com](http://www.amazon.com/) |
+| Neiman Marcus    | 综合百货 | [www.neimanmarcus.com](https://www.neimanmarcus.com/en-cn/) |
+| Farfetch         | 服装服饰 | [www.farfetch.com](http://www.farfetch.com/) |
+| ASOS             | 服装服饰 | [www.asos.com](http://www.asos.com/)     |
+| SHOPBOP          | 服装服饰 | [www.shopbop.com](https://cn.shopbop.com/) |
+| SSENSE           | 服装服饰 | [www.ssense.com](https://www.ssense.com/en-cn) |
+| Net-A-Porter.com | 服装服饰 | [net-a-porter.com](https://www.net-a-porter.com/cn/zh/) |
+| GILT             | 服装服饰 | [www.gilt.com](http://www.gilt.com/)     |
+| GNC              | 母婴保健 | [www.gnc.com](http://www.gnc.com/)       |
+| iHerb            | 母婴保健 | [www.iherb.com](http://www.iherb.com/)   |
+
+
+
+**报名方式：**（1）编辑短信 **CCHD#卡号后四位#010** 发送至 95533；（2）关注「**龙卡信用卡**」官方微信 - My地盘 - 活动报名
+
+**参考链接：**[Visa、万事达卡   享海淘十大名店 8% 返现](http://www.ccb.com/cn/html1/office/xyk/subject/18/0629fxweb/eight.html)
+
+### **银联卡线下 8%+3% 返现**
+
+**活动时间：**即日起至 2018 年 12 月 31 日
+
+**活动对象：**银联信用卡
+
+**活动内容：**
+
+- 境外线下刷卡消费，通过银联清算网络满 6 笔且每笔满等值 600 元人民币，**即可获得银联清算网络当月境外消费总金额 8% 的返现奖励**。每人每月限返 600 元，活动期间限享 2 次。共 15000 个返现名额，返现 1 次即为 1 个名额。
+
+- 境外线下刷卡消费，持银联单标信用卡（卡号 62 开头）在欧洲指定国家、美国、澳大利亚及新西兰线下刷卡消费，**累计交易达 30000 元人民币即可额外获得 1000 元人民币返现**，每持卡人活动期间限享 1 次。共 1000 个返现名额，返现 1 次即为 1 个名额。
+
+**报名方式：**（1）编辑短信 **CCHD#卡号后四位#010** 发送至 95533；（2）关注「**龙卡信用卡**」官方微信 - My地盘 - 活动报名
+
+**参考链接：**[银联卡 境外刷卡消费享 8%+3% 返现](http://www.ccb.com/cn/html1/office/xyk/subject/18/0629fxweb/yinlian.html)
+
+###**全球支付卡/全球热购卡银联卡 线上 10% 返现**
+
+**活动时间：**即日起至 2018 年 12 月 31 日
+
+**活动对象：**全球支付卡/全球热购卡（卡号 62 开头）
+
+**活动内容：**境外线上指定商户消费，**单笔交易满 600 元即可返现 10%**。每人每月限返 360 元。活动期间限享 2 次。共 11000 个返现名额，返现 1 次即为 1 个名额。
+
+| 商户名称                      | 类别   | 网址                                       |
+| ------------------------- | ---- | ---------------------------------------- |
+| 美国亚马逊                     | 综合百货 | [www.amazon.com](http://www.amazon.com/) |
+| 日本亚马逊                     | 综合百货 | [www.amazon.co.jp](http://www.amazon.co.jp/) |
+| Agoda                     | 商旅航空 | [www.agoda.com](https://www.agoda.com/zh-cn/) |
+| DELTA航空                   | 商旅航空 | [www.delta.com](http://www.delta.com/)   |
+| Cathay Pacific            | 商旅航空 | [www.cathaypacific.com](http://www.cathaypacific.com/) |
+| Air France                | 商旅航空 | [www.airfrance.com.cn](http://www.airfrance.com.cn/) |
+| Expedia酒店预订 （含Hotels.com） | 商旅酒店 | [www.expedia-cn.com/Hotels](https://www.expedia-cn.com/Hotels)[www.hotels.cn](https://www.hotels.cn/) |
+| iHerb                     | 母婴保健 | [www.iherb.cn](http://www.iherb.cn/)     |
+| SHOPBOP                   | 时尚精品 | [www.shopbop.com](http://www.shopbop.com/) |
+| ACCA                      | 教育缴费 | [www.acca.org.uk](http://www.acca.org.uk/) |
+
+
+
+**报名方式：**（1）编辑短信 **CCHD#卡号后四位#010** 发送至 95533；（2）关注「**龙卡信用卡**」官方微信 - My地盘 - 活动报名
+
+**参考链接：**[全球支付卡/全球热购卡银联卡 线上 10% 返现](http://www.ccb.com/cn/html1/office/xyk/subject/18/0629fxweb/ten.html)
+
+### **JCB单标卡线下 8% 返现**
+
+**活动时间：**即日起至 2018 年 12 月 31 日
+
+**活动对象：**JCB 信用卡
+
+**活动内容：**境外线下刷卡消费，**每笔均可返现 8%**。每人每月限返 60 美元，活动期间限享 2 次，共 18000 个返现名额，返现 1 次即为 1 个名额。
+
+**报名方式：**（1）编辑短信 **CCHD#卡号后四位#010** 发送至 95533；（2）关注「**龙卡信用卡**」官方微信 - My地盘 - 活动报名
+
+**参考链接：**[JCB 单标卡 境外刷卡消费享 8% 返现](http://www.ccb.com/cn/html1/office/xyk/subject/18/0629fxweb/jcb.html)
 
 **点评：**返现 1 次就算 1 个名额？那在便利店买瓶水就要占用 1 个名额喽？我没有亲自考证过，建议大家如果是月初就赶紧多刷刷建行卡吧。
 
@@ -164,18 +261,36 @@
 
 ### **Visa卡境外最高返现 30%**
 
-**活动时间：**2018 年 5 月 1 日至 2018 年 7 月 31 日
+**活动时间：**即日起至 2018 年 10 月 31 日
 
-**活动对象：**Visa 单币卡、Visa 白金单/双币卡、Visa 无限卡
+**活动对象：**Visa Signature 卡、Visa 单币卡、Visa 白金卡、Visa 无限卡
 
 **活动内容：**
 
-- 在境外（美、英、法、德、意、日、加、澳、新加坡、港澳台）线下的**百货、餐饮、住宿、教育四类商户消费，可返现 30%**；在此以外的商户消费，可返现 8%。每卡每月最高返现 100 美元。
+- 在境外（美、英、法、德、西、意、俄、日、韩、泰、加、澳、新西兰、新加坡、马来西亚、香港）线下的**百货、餐饮、住宿、教育四类商户消费，可返现 30%**；在此以外的商户消费，可返现 8%。每卡每月最高返现 100 美元。
 - 每月累计刷卡**超过 6000 美元，可返现 600 美元**。限每月累计交易排名前 100 名。
 
 **报名方式：**（1）编辑短信 **IGO** 发送至 106980095558；（2）关注「**中信银行信用卡**」官方微信，发送 **IGO** 报名
 
 **参考链接：**[境外刷 Visa 卡返现 30%](https://creditcard.ecitic.com/youhui/160430/index.shtml)
+
+
+
+### **万事达卡境外享 10% 返现**
+
+**活动时间：**即日起至 2018 年 9 月 30 日
+
+**活动对象：**万事达钛金卡、白金卡、世界卡
+
+**活动内容：**
+
+- 境外消费每**满 100 美元返现 10 美元**，每卡每月最高返现 120 美元（线上 20 美元，线下 100 美元），总额限量。
+- 新发卡客户在境外消费单笔满 5 美元返 5 美元，每人限返 1 次，总额限量。
+- 万事达钛金卡新发卡客户在境外消费单笔满 10 美元返 10 美元，每人限返 1 次，总额限量。
+
+**报名方式：**（1）编辑短信 **MCC** 发送至 106980095558；（2）关注「**中信银行信用卡**」官方微信，发送 **MCC** 报名
+
+**参考链接：**[境外刷万事达卡享 10% 返现](https://creditcard.ecitic.com/youhui/170912/index.shtml)
 
 **点评：**中信的返现比例还是很高的，缺点在于总额限量，可以算得上是薛定谔的返现，因此适合在月初出境时使用。
 
@@ -187,26 +302,24 @@
 
 ### **漂亮升级妈妈海淘返现 10%**
 
-**活动时间：**即日起至 2018 年 7 月 31 日
+**活动时间：**即日起至 2018 年 12 月 31 日
 
 **活动对象：**漂亮升级妈妈 Visa 白金信用卡
 
-**活动内容：**在以下网站通过 Visa 网络单笔消费**满 100 美元及以上返现 10%**，每卡每月最高返现 60 美元。
+**活动内容：**在以下网站通过 Visa 网络单笔消费**满 100 美元及以上返现 10%**，每卡每月最高返现 60 美元，活动期间最高返现 120 美元。活动限量 4500 个名额。
 
 活动海淘网站：
 
-- [http://www.amazon.com](http://www.amazon.com/united/)（美国）
-- [http://www.iherb.com](http://www.iherb.com/)
-- [http://www.6pm.com](http://www.6pm.com/)
-- [http://www.asos.com](http://www.asos.com/)
-- [http://www.gnc.com](http://www.gnc.com/)
-- [http://www.gap.com](http://www.gap.com/)
-- [http://www.carters.com](http://www.carters.com/)
-- [http://www.gymboree.com](http://www.gymboree.com/)
+- 综合百货：[Nordstrom](shop.nordstrom.com)、[Costco Wholesale](www.costco.com)、[Iherb.com](www.iherb.com)
+- 时尚精品：[Shopbop](www.shopbop.com)、[6pm](www.6pm.com)
+- 健康保健：[GNC](www.gnc.com)
+- 衣着服饰：[GAP](www.gap.com)、[Carters](www.carters.com)
+- 母婴用品：[Kidsroom](www.kids-room.com)、[Babyhaven (US)](www.babyhaven.com)
+- 酒店预订：[Agoda](www.agoda.com)、[Hotels.com](www.hotels.com)、[Air BNB](www.airbnb.com)、[Booking.com](www.booking.com)
 
 **报名方式：**无需报名
 
-**参考链接：**[漂亮升级妈妈海淘返现 10%](http://www.abchina.com/cn/CreditCard/Special0ffers/All/plsjvbjxykjxhtshfx.htm?merId=3786)
+**参考链接：**[漂亮升级妈妈海淘返现 10%](http://www.abchina.com/cn/CreditCard/Special0ffers/All/plsjmmvisabjxyk.htm?merId=57170)
 
 
 
@@ -225,6 +338,12 @@
 
 **参考链接：**[万事达美国享优惠](http://www.abchina.com/cn/CreditCard/Special0ffers/All/nhwsdxykymyhdbw.htm?merId=40193)
 
+
+
+### **其他活动**
+
+农行还有一些其他的活动，可以[点此](http://www.abchina.com/cn/CreditCard/Special0ffers/skyhsxlb/?value=8&typeName=%E5%A2%83%E5%A4%96%E5%95%86%E6%88%B7)查阅。
+
 ------
 
 ## 光大银行
@@ -233,7 +352,7 @@
 
 ### **Visa 境外返现最高 8%**
 
-**活动时间：**即日起至 2018 年 6 月 30 日
+**活动时间：**即日起至 2019 年 6 月 30 日
 
 **活动对象：**光大银行 Visa 信用卡
 
@@ -246,19 +365,7 @@
 
 **报名方式：**「**阳光惠生活**」App - 境外返现活动
 
-**参考链接：**[Visa 境外返现最高 8%](https://xyk.cebbank.com/home/activities/searchDetail/category/details.htm?contentId=34024)
-
-### **境外刷卡享 8 倍积分**
-
-**活动时间：**即日起至 2018 年 6 月 30 日
-
-**活动对象：**光大银行信用卡
-
-**活动内容：**在境外线下刷卡消费，可获**最高 8 倍奖励积分**（奖励积分含消费所获得的基础积分）。每人每月最高可额外获赠50万积分。
-
-**报名方式：**无需报名
-
-**参考链接：**[境外刷卡享 8 倍积分](https://xyk.cebbank.com/home/activities/searchDetail/category/details.htm?contentId=39239)
+**参考链接：**[Visa 境外返现最高 8%](https://xyk.cebbank.com/home/activities/searchDetail/category/details.htm?contentId=49228)
 
 ------
 
@@ -276,7 +383,7 @@
 
 ## 渣打银行
 
-**活动时间：**即日起至 2018 年 6 月 30 日
+**活动时间：**即日起至 2018 年 9 月 30 日
 
 **活动对象：**渣打银行 Visa 信用卡
 
@@ -311,6 +418,10 @@
 ![](https://ws1.sinaimg.cn/large/49dba72ely1fo1hfiqpc3j20hs0afq43.jpg)
 
 **参考链接：**[美国运通商户礼遇](http://www.americanexpress.com.cn/product/overseas/)
+
+---
+
+## 万事达
 
 ------
 
