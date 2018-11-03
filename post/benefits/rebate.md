@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/更新于-2018&nbsp;年&nbsp;7&nbsp;月&nbsp;31&nbsp;日-brightgreen.svg)
+![](https://img.shields.io/badge/更新于-2018%20年&nbsp;7&nbsp;月&nbsp;31&nbsp;日-brightgreen.svg)
 
 # 境外刷卡优惠活动
 
