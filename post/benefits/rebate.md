@@ -25,7 +25,7 @@
 
 **报名方式：**（1）编辑短信 **XYK8** 发送至 95588；（2）「**融e联**」App - 消息 - 工银信使 - 发送 **XYK8**报名
 
-**参考链接：**[工银信用卡爱购全球](http://www.icbc.com.cn/icbc/%E4%BC%98%E6%83%A0%E6%B4%BB%E5%8A%A8/%E6%B4%BB%E5%8A%A8%E5%88%97%E8%A1%A8/%E5%85%A8%E5%9B%BD%E6%B4%BB%E5%8A%A8%E5%88%97%E8%A1%A8/%E7%88%B1%E8%B4%AD%E5%85%A8%E7%90%83%E5%A2%83%E5%A4%96%E6%B6%88%E8%B4%B9%E5%8F%8A%E6%B5%B7%E6%B7%98%E6%9C%80%E9%AB%98%E8%BF%94%E7%8E%B021.htm)
+**参考链接：**[工银信用卡爱购全球](http://https://https://www.icbc.com.cn/icbc/%E4%BC%98%E6%83%A0%E6%B4%BB%E5%8A%A8/%E6%B4%BB%E5%8A%A8%E5%88%97%E8%A1%A8/%E5%85%A8%E5%9B%BD%E6%B4%BB%E5%8A%A8%E5%88%97%E8%A1%A8/%E7%88%B1%E8%B4%AD%E5%85%A8%E7%90%83%E5%A2%83%E5%A4%96%E6%B6%88%E8%B4%B9%E5%8F%8A%E6%B5%B7%E6%B7%98%E6%9C%80%E9%AB%98%E8%BF%94%E7%8E%B021.htm)
 
 **点评：**工行活动一向财大气粗，不限商户不限卡种不限线上线下，不愧是宇宙第一大行。而且返现 1-2 天就到账，堪称返现界的快枪手。
 
@@ -37,24 +37,24 @@
 
 ### **境外最高 20 倍积分**
 
-   **活动时间：**即日起至 2018 年 9 月 30 日
+**活动时间：**即日起至 2018 年 9 月 30 日
 
-   **活动对象：**白金信用卡、优逸白信用卡
+**活动对象：**白金信用卡、优逸白信用卡
 
-   **活动内容：**境外线下刷卡（不包括支付宝、微信）消费单月满 5 笔，且每笔金额不低于 500 元等值人民币，即可享**当月境外消费 10 倍积分**奖励。 同时，当月境外消费额最高当日，所有消费可获得 20 倍积分的奖励。每客户活动期间仅限获得一次奖励。
+**活动内容：**境外线下刷卡（不包括支付宝、微信）消费单月满 5 笔，且每笔金额不低于 500 元等值人民币，即可享**当月境外消费 10 倍积分**奖励。 同时，当月境外消费额最高当日，所有消费可获得 20 倍积分的奖励。每客户活动期间仅限获得一次奖励。
 
 部分特殊联名白金卡及优逸白金卡客户当月奖励最高 10 万积分，其他白金卡客户当月奖励最高 20 万积分。当月客户如在「超红目的地」满足 5 笔达标消费，该地区内发生的境外线下消费可享最高奖励 50 万积分。超红目的地：6 月 - 俄罗斯、7 月 - 新西兰、8 月 - 澳大利亚、9 月 - 加拿大。
 
-   **报名方式：**「**买单吧**」App - 我的 - 我的活动
+**报名方式：**「**买单吧**」App - 我的 - 我的活动
 
-   **参考链接：**[点击这里](https://creditcard.bankcomm.com/content/pccc-biz/discount/data/1_1528769900843.show.html)
+**参考链接：**[点击这里](https://creditcard.bankcomm.com/content/pccc-biz/discount/data/1_1528769900843.show.html)
 
 ### **港澳、日本、欧美等地区指定商户优惠**
 
    ![](https://ws1.sinaimg.cn/large/49dba72ely1fnqrslh5d2j20zl0dwdtq.jpg)
 [点击查看详情](https://creditcard.bankcomm.com/content/dam/pc/minisite/minisite715/index.html)
 
-**点评：**如果持有交行白金卡，那么 20 倍积分一定不能错过。保守计算，每年可以获得 20*12=240 万积分，按照 18:1 的里程兑换标准，可以获得 13 万里程，够飞一个洲际头等舱往返了。
+**点评：**如果持有交行白金卡，那么 20 倍积分一定不能错过。没有的话就不用考虑了。
 
 ------
 
@@ -88,11 +88,11 @@
 
 | 商户名       | 网址                                       |
 | --------- | ---------------------------------------- |
-| Agoda     | [https://www.agoda.com](http://www.agoda.com/) |
-| Hotels    | [https://www.hotels.com](http://www.aa.com/) |
+| Agoda     | [https://www.agoda.com](https://www.agoda.com/) |
+| Hotels    | [https://www.hotels.com](https://www.aa.com/) |
 | Airbnb    | [https://zh.airbnb.com/](https://zh.airbnb.com/) |
-| Expedia   | [https://www.expedia.com](http://www.expedia.com/) |
-| Priceline | [https://www.priceline.com](http://www.priceline.com/) |
+| Expedia   | [https://www.expedia.com](https://www.expedia.com/) |
+| Priceline | [https://www.priceline.com](https://www.priceline.com/) |
 
 
 
@@ -110,16 +110,16 @@
 
 | 商户名称             | 类别   | 网址                                       |
 | ---------------- | ---- | ---------------------------------------- |
-| Amazon           | 综合百货 | [www.amazon.com](http://www.amazon.com/) |
+| Amazon           | 综合百货 | [www.amazon.com](https://www.amazon.com/) |
 | Neiman Marcus    | 综合百货 | [www.neimanmarcus.com](https://www.neimanmarcus.com/en-cn/) |
-| Farfetch         | 服装服饰 | [www.farfetch.com](http://www.farfetch.com/) |
-| ASOS             | 服装服饰 | [www.asos.com](http://www.asos.com/)     |
+| Farfetch         | 服装服饰 | [www.farfetch.com](https://www.farfetch.com/) |
+| ASOS             | 服装服饰 | [www.asos.com](https://www.asos.com/)    |
 | SHOPBOP          | 服装服饰 | [www.shopbop.com](https://cn.shopbop.com/) |
 | SSENSE           | 服装服饰 | [www.ssense.com](https://www.ssense.com/en-cn) |
 | Net-A-Porter.com | 服装服饰 | [net-a-porter.com](https://www.net-a-porter.com/cn/zh/) |
-| GILT             | 服装服饰 | [www.gilt.com](http://www.gilt.com/)     |
-| GNC              | 母婴保健 | [www.gnc.com](http://www.gnc.com/)       |
-| iHerb            | 母婴保健 | [www.iherb.com](http://www.iherb.com/)   |
+| GILT             | 服装服饰 | [www.gilt.com](https://www.gilt.com/)    |
+| GNC              | 母婴保健 | [www.gnc.com](https://www.gnc.com/)      |
+| iHerb            | 母婴保健 | [www.iherb.com](https://www.iherb.com/)  |
 
 
 
@@ -143,7 +143,7 @@
 
 **参考链接：**[银联卡 境外刷卡消费享 8%+3% 返现](http://www.ccb.com/cn/html1/office/xyk/subject/18/0629fxweb/yinlian.html)
 
-### **全球支付卡/全球热购卡银联卡 线上 10% 返现**
+###**全球支付卡/全球热购卡银联卡 线上 10% 返现**
 
 **活动时间：**即日起至 2018 年 12 月 31 日
 
@@ -153,16 +153,16 @@
 
 | 商户名称                      | 类别   | 网址                                       |
 | ------------------------- | ---- | ---------------------------------------- |
-| 美国亚马逊                     | 综合百货 | [www.amazon.com](http://www.amazon.com/) |
-| 日本亚马逊                     | 综合百货 | [www.amazon.co.jp](http://www.amazon.co.jp/) |
+| 美国亚马逊                     | 综合百货 | [www.amazon.com](https://www.amazon.com/) |
+| 日本亚马逊                     | 综合百货 | [www.amazon.co.jp](https://www.amazon.co.jp/) |
 | Agoda                     | 商旅航空 | [www.agoda.com](https://www.agoda.com/zh-cn/) |
-| DELTA航空                   | 商旅航空 | [www.delta.com](http://www.delta.com/)   |
-| Cathay Pacific            | 商旅航空 | [www.cathaypacific.com](http://www.cathaypacific.com/) |
-| Air France                | 商旅航空 | [www.airfrance.com.cn](http://www.airfrance.com.cn/) |
+| DELTA航空                   | 商旅航空 | [www.delta.com](https://www.delta.com/)  |
+| Cathay Pacific            | 商旅航空 | [www.cathaypacific.com](https://www.cathaypacific.com/) |
+| Air France                | 商旅航空 | [www.airfrance.com.cn](https://www.airfrance.com.cn/) |
 | Expedia酒店预订 （含Hotels.com） | 商旅酒店 | [www.expedia-cn.com/Hotels](https://www.expedia-cn.com/Hotels)[www.hotels.cn](https://www.hotels.cn/) |
-| iHerb                     | 母婴保健 | [www.iherb.cn](http://www.iherb.cn/)     |
-| SHOPBOP                   | 时尚精品 | [www.shopbop.com](http://www.shopbop.com/) |
-| ACCA                      | 教育缴费 | [www.acca.org.uk](http://www.acca.org.uk/) |
+| iHerb                     | 母婴保健 | [www.iherb.cn](https://www.iherb.cn/)    |
+| SHOPBOP                   | 时尚精品 | [www.shopbop.com](https://www.shopbop.com/) |
+| ACCA                      | 教育缴费 | [www.acca.org.uk](httpsz://www.acca.org.uk/) |
 
 
 
@@ -287,7 +287,7 @@
 **活动内容：**
 
 - 境外消费每**满 100 美元返现 10 美元**，每卡每月最高返现 120 美元（线上 20 美元，线下 100 美元），总额限量。
-- 新发卡客户在境外消费单笔满 5 美元返 5 美元，每人限返 1 次，总额限量。
+- 万事达卡新发卡客户在境外消费单笔满 5 美元返 5 美元，每人限返 1 次，总额限量。
 - 万事达钛金卡新发卡客户在境外消费单笔满 10 美元返 10 美元，每人限返 1 次，总额限量。
 
 **报名方式：**（1）编辑短信 **MCC** 发送至 106980095558；（2）关注「**中信银行信用卡**」官方微信，发送 **MCC** 报名
@@ -312,12 +312,12 @@
 
 活动海淘网站：
 
-- 综合百货：[Nordstrom](shop.nordstrom.com)、[Costco Wholesale](www.costco.com)、[Iherb.com](www.iherb.com)
-- 时尚精品：[Shopbop](www.shopbop.com)、[6pm](www.6pm.com)
-- 健康保健：[GNC](www.gnc.com)
-- 衣着服饰：[GAP](www.gap.com)、[Carters](www.carters.com)
-- 母婴用品：[Kidsroom](www.kids-room.com)、[Babyhaven (US)](www.babyhaven.com)
-- 酒店预订：[Agoda](www.agoda.com)、[Hotels.com](www.hotels.com)、[Air BNB](www.airbnb.com)、[Booking.com](www.booking.com)
+- 综合百货：[Nordstrom](https://shop.nordstrom.com)、[Costco Wholesale](https://www.costco.com)、[Iherb.com](https://www.iherb.com)
+- 时尚精品：[Shopbop](https://www.shopbop.com)、[6pm](https://www.6pm.com)
+- 健康保健：[GNC](https://www.gnc.com)
+- 衣着服饰：[GAP](https://www.gap.com)、[Carters](https://www.carters.com)
+- 母婴用品：[Kidsroom](https://www.kids-room.com)、[Babyhaven (US)](https://www.babyhaven.com)
+- 酒店预订：[Agoda](https://www.agoda.com)、[Hotels.com](https://www.hotels.com)、[Air BNB](https://www.airbnb.com)、[Booking.com](https://www.booking.com)
 
 **报名方式：**无需报名
 
