@@ -10,8 +10,6 @@
   * [汽车加油](post/benefits/gas.md)
   * [延误险](post/benefits/flight-delay.md)
 
-* 信用卡积分
-
-  * [中信银行](post/cards/citic/index.md)
+* 信用卡积分（维护中）
 
 
