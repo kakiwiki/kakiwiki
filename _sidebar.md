@@ -1,7 +1,6 @@
 * 入门
 
   * [认识卡积](README.md)
-  * [快速开始](quickstart.md)
 
 * 信用卡权益
 
